@@ -2,8 +2,8 @@
 
 ## Objectives：
 
-Reject Sagging:
-Enabling the Voron 2.4 Gantry to Defy Gravity
+#### Reject Sagging:
+##### Enabling the Voron 2.4 Gantry to Defy Gravity
 
 The Voron 2.4 uses a belt-driven Z gantry structure. Due to the linearity of the lead screw affecting the stability of the horizontal position, the 2.4 theoretically can achieve smaller layer lines compared to most 3D printers that use lead screw structures. However, with the original design's 4:1 gear ratio, the static torque of the stepper motor is insufficient to support the heavy gantry in the event of a power outage, especially when mods such as nozzle cleaner and klicky are added to the gantry, further increasing its weight. Since the rear weight of the gantry is significantly greater than the front, the gantry tilt is inevitable, requiring multiple calibrations before each print to achieve an acceptable parallelism with the print bed. To prevent the print head from hitting the platform during leveling, a higher leveling height is also necessary. In my opinion, a bigger issue is that in a power-off state, the gantry and the main frame might stretch, posing unknown deformation risks.
 
