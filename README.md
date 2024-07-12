@@ -1,6 +1,6 @@
 # Double_GEAR_ratio_Z
 
-## description: 
+## Description: 
 #### Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection
 
 ## Objectives：
