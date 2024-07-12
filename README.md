@@ -1,7 +1,7 @@
 # Double_GEAR_ratio_Z
 
 ## description: 
-"Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection"
+#### Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection
 
 ## Objectives：
 #### Reject Sagging
