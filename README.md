@@ -14,10 +14,10 @@ Additionally, in the current setup, the connection between the gantry and the li
 In my modification, I used GE5C ball joints to connect the gantry and the linear rails, which should provide a more stable structure. I also used a pulley system to increase the gear ratio to 8:1, allowing the gantry to maintain its position without external forces after a power outage. Practical tests show that only one leveling attempt is needed after a power outage without external influences, compared to the previous 3-4 attempts needed to complete the leveling.
 
 ## Image
-![front](Image/CAD_front_view.png)
-![side](Image/CAD_side_view.png)
-![Detal1](Image/CAD_Detal_view1.png)
-![Detal2](Image/CAD_Detal_view2.png)
+![front](Images/CAD_front_view.png)
+![side](Images/CAD_side_view.png)
+![Detal1](Images/CAD_Detal_view1.png)
+![Detal2](Images/CAD_Detal_view2.png)
 
 ## Configuration Change:
 
