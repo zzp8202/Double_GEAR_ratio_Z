@@ -28,7 +28,7 @@ Change from 4:1 to 8:1.
 
 ### Optional Configuration Change:
 
-You may adjust the 'horizontal_move_z' parameter in '[quad_gantry_level] 'and '[bed_mesh]' to reduce the Z-axis lift height during operations, thereby increasing speed. I have changed it to '10'.
+You may adjust the 'horizontal_move_z' parameter in '[quad_gantry_level] 'and '[bed_mesh]' to reduce the Z-axis lift height during operations, thereby increasing speed. I have change it to '10'.
 
 
 ## Bill of Materials (BOM)：
