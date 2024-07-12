@@ -16,10 +16,10 @@ stl:
 - STL/Z_Belt_Clamp_Upper_Bottom_x8.STL
 - STL/Z_Belt_Clamp_Upper_x8.STL
 images:
-- Image/CAD_Detal_view1.png
-- Image/CAD_Detal_view2.png
-- Image/CAD_front_view.png
-- Image/CAD_side_view.png
+- Images/CAD_Detal_view1.png
+- Images/CAD_Detal_view2.png
+- Images/CAD_front_view.png
+- Images/CAD_side_view.png
 printer_compatibility:
 - V2.4
 
