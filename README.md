@@ -1,7 +1,9 @@
-# Double GEAR ratio Z belt assembly with spherical bearing connection
+# Double_GEAR_ratio_Z
+
+## description: 
+"Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection"
 
 ## Objectives：
-
 #### Reject Sagging
 ##### Enabling the Voron 2.4 Gantry to Defy Gravity
 
