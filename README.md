@@ -55,8 +55,8 @@ You may adjust the 'horizontal_move_z' parameter in '[quad_gantry_level] 'and '[
 |5	|Fasteners	|M5x15 SHCS 							|8				|		|
 |6	|Fasteners	|M5xNUT								|8				|		|
 |7	|Fasteners	|M5x12x8 NUT 						|4				|LEN:12mm,Out DIA:8mm	|
-|8	|Fasteners	|M5X1x8 washer 						|12				|		|
+|8	|Fasteners	|M5X1x8 washer 						|8				|		|
 |9	|Fasteners	|M5 T-nut HNTAJ5-5					|16				|		|
 |10	|Motion		|F605zz  Bearing 						|16				|		|
-|11	|Motion		|GE5C Spherical Bearing 				|16				|		|
+|11	|Motion		|GE5C Spherical Bearing 				|4				|		|
 |12	|Motion		|GT2 Open Belt LL-2GT-9 (9mm wide)		|Increase 50%		|		|
