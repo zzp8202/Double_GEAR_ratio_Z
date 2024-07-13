@@ -50,7 +50,7 @@ You may adjust the 'horizontal_move_z' parameter in '[quad_gantry_level] 'and '[
 |--|--|--|--|--|
 |1	|Fasteners	|M3x15 SHCS 							|4				|		|
 |2	|Fasteners	|M3x20 SHCS 							|16	                  	|	  |
-|3	|Fasteners	|M5X25 BHCS 						|12				|M5X25 BHCS Better|
+|3	|Fasteners	|M5X25 BHCS 						|12				|M5X27 BHCS Better|
 |4	|Fasteners	|M5x15 BHCS 							|24				|		|
 |5	|Fasteners	|M5x15 SHCS 							|8				|		|
 |6	|Fasteners	|M5xNUT								|8				|		|
