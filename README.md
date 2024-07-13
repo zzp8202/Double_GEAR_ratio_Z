@@ -24,6 +24,19 @@ In my modification, I used GE5C ball joints to connect the gantry and the linear
 ![Photo](Images/ezgif.com-resize.gif)
 
 ## Assemble Instructions:
+You can replace Z0~Z3 one by one. 
+When installing the pulleys, threading the belt in advance will make the process easier.
+
+1. Secure the gantry.you can use this MOD https://mods.vorondesign.com/details/p80KEQX34UKwVvovF0ig
+2. Remove the existing Bearing Block and related modules.
+3. Loosen the belt tensioning structure.
+4. Install the bottom belt press block.
+5. Assemble the Bearing Block Bottom With Pulley module.
+6. Assemble the Pulley Holder module.
+7. Install the bottom belt press block.
+8. Restore the belt tensioning structure.
+9. Adjust the belt tension.
+10. Replace the XY drag chain bracket.
 
 #### Pulley_Holder
 ![Pulley_Holder_BOM](Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.png)
