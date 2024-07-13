@@ -3,7 +3,7 @@ description: "Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connectio
 mod_version: 1
 discord_username: ZZP8202
 cad:
-- 3D/Double_GEAR_ratio_Z_belt_assembly_with_Spherical_Bearing_connection
+- 3D/Double_GEAR_ratio_Z_belt_assembly_with_Spherical_Bearing_connection.STEP
 stl:
 - STL/Adapter_x4.STL
 - STL/Pulley_Holder_x4.STL
