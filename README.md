@@ -21,7 +21,11 @@ In my modification, I used GE5C ball joints to connect the gantry and the linear
 ![side](Images/CAD_side_view.png)
 ![Detal1](Images/CAD_Detal_view1.png)
 ![Detal2](Images/CAD_Detal_view2.png)
-![Photo](Images/Photo.jpg)
+![Photo](Images/ezgif.com-resize.gif)
+
+## Assemble Instructions
+![Bearing_Block_Bottom_With_Pulley](Other/Assemble_Instructions/Z_Bearing_Block_Bottom_With_Pulley.gif)
+
 
 ## Configuration Change:
 
