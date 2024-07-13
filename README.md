@@ -31,10 +31,10 @@ When installing the pulleys, threading the belt in advance will make the process
 1. Secure the gantry.you can use this MOD https://mods.vorondesign.com/details/p80KEQX34UKwVvovF0ig
 2. Remove the existing Bearing Block and related modules.
 3. Loosen the belt tensioning structure.
-4. Install the bottom belt press block.
+4. Install the bottom belt clamp.
 5. Assemble the Bearing Block Bottom With Pulley module.
 6. Assemble the Pulley Holder module.
-7. Install the bottom belt press block.
+7. Install the top belt clamp.
 8. Restore the belt tensioning structure.
 9. Adjust the belt tension.
 10. Replace the XY drag chain bracket.
