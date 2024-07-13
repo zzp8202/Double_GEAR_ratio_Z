@@ -25,6 +25,7 @@ In my modification, I used GE5C ball joints to connect the gantry and the linear
 
 ## Assemble Instructions:
 You can replace Z0~Z3 one by one. 
+
 When installing the pulleys, threading the belt in advance will make the process easier.
 
 1. Secure the gantry.you can use this MOD https://mods.vorondesign.com/details/p80KEQX34UKwVvovF0ig
