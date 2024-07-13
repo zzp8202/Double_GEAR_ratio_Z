@@ -54,7 +54,7 @@ You may adjust the 'horizontal_move_z' parameter in '[quad_gantry_level] 'and '[
 |4	|Fasteners	|M5x15 BHCS 							|24				|		|
 |5	|Fasteners	|M5x15 SHCS 							|8				|		|
 |6	|Fasteners	|M5xNUT								|8				|		|
-|7	|Fasteners	|M5x12x8 NUT 						|4				|Len:12mm,Out DIA:8mm	|
+|7	|Fasteners	|M5x12x8 NUT 						|4				|LEN:12mm,Out DIA:8mm	|
 |8	|Fasteners	|M5X1x8 washer 						|12				|		|
 |9	|Fasteners	|M5 T-nut HNTAJ5-5					|16				|		|
 |10	|Motion		|F605zz  Bearing 						|16				|		|
